@@ -1,4 +1,4 @@
-# metabolic-rl-optimizer  
+# Metabolic Reinforcement Learning Optimizer
 
 Reinforcement Learning for Glucose Dynamics Optimization using real-world Type 1 Diabetes data.
 
